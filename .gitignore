@@ -58,3 +58,6 @@ venv/
 *.tgz
 .tmp/
 temp/
+
+# --- app internal ---
+.freebuff/
