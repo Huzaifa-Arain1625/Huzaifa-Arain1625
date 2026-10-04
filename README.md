@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?section=header&type=waving&height=160&color=0:800000,100:1A1A1A&text=MUHAMMAD+HUZAIFA+ARAIN&fontSize=36&fontColor=FFFFFF&fontAlign=center&desc=SOFTWARE+ENGINEER+%7C+MERN+STACK+%7C+TACTICAL+DIGITAL+STRATEGIST&descSize=17&descAlign=center&animation=typing" alt="Muhammad Huzaifa Arain — Tactical Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?section=header&type=waving&height=160&color=0:800000,100:1A1A1A&text=MUHAMMAD+HUZAIFA+ARAIN&fontSize=36&fontColor=FFFFFF&fontAlign=center&fontAlignY=36&desc=SOFTWARE+ENGINEER+%7C+MERN+STACK+%7C+TACTICAL+DIGITAL+STRATEGIST&descSize=17&descAlign=center&descAlignY=63&animation=typing" alt="Muhammad Huzaifa Arain — Tactical Header Banner" />
 </p>
 
 <p align="center">
