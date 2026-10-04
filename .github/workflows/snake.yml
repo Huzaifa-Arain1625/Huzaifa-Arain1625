@@ -1,0 +1,36 @@
+name: 🐍 Generate contribution snake
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate snake SVGs (maroon tactical palette)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?color_snake=#800000&color_dots=#ffe6e6,#f5a8a8,#e05555,#b31d1d,#800000
+            dist/github-snake-dark.svg?color_snake=#ff6b6b&color_dots=#161b22,#5c1f1f,#a60000,#d63333,#ff5959
+
+      - name: Push generated SVGs to output branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd dist
+          git init -b output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Update snake animation"
+          git push --force "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" output
