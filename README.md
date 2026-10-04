@@ -150,6 +150,21 @@ Directing large-scale digital communication tactics, automated workflows, and hi
 
 ---
 
+### 🔗 CONNECT WITH ME
+
+<p align="center">
+  <img src="assets/tactical-divider.svg" alt="" />
+</p>
+
+<p align="center">
+  <a href="https://wa.me/huza_ifa1625"><img src="https://img.shields.io/badge/WhatsApp%20Business-huza_ifa1625-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1A1A1A" alt="WhatsApp Business: huza_ifa1625" /></a>
+  <a href="https://www.facebook.com/mhuzaifa.arain"><img src="https://img.shields.io/badge/Facebook-mhuzaifa.arain-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1A1A1A" alt="Facebook: mhuzaifa.arain" /></a>
+  <a href="https://www.instagram.com/huza_ifa1625/"><img src="https://img.shields.io/badge/Instagram-huza_ifa1625-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1A1A1A" alt="Instagram: huza_ifa1625" /></a>
+  <a href="https://x.com/huzaifa1625"><img src="https://img.shields.io/badge/X-huzaifa1625-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1A1A1A" alt="X: huzaifa1625" /></a>
+</p>
+
+---
+
 <h1 align="center">
   <i>"Strategy without execution is an illusion. Execution without discipline is a failure."</i>
 </h1>
