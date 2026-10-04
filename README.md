@@ -142,6 +142,10 @@ Directing large-scale digital communication tactics, automated workflows, and hi
 </p>
 
 <p align="center">
+  <img src="https://github-activity-graph.vercel.app/graph?username=Huzaifa-Arain1625&bg_color=0d1117&color=c9d1d9&line=e66a6a&area=true&area_color=800000&hide_title=false&custom_title=CONTRIBUTION+CAMPAIGN+CHART" alt="Contribution campaign chart — GitHub activity graph" />
+</p>
+
+<p align="center">
   <img src="https://hits.sh/github.com/Huzaifa-Arain1625.svg?label=PROFILE+VISITS&color=800000" alt="Profile Visits" />
   <a href="https://github.com/Huzaifa-Arain1625?tab=repositories">
     <img src="https://img.shields.io/badge/ACTIVE%20REPOSITORIES-READY-maroon?style=for-the-badge&labelColor=1A1A1A" alt="Repositories" />
