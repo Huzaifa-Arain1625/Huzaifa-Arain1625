@@ -1,12 +1,15 @@
-<p align="left">
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=800000&width=600&lines=MUHAMMAD+HUZAIFA+ARAIN;SOFTWARE+ENGINEER;TACTICAL+STRATEGIST;DEPUTY+COORDINATOR" alt="Tactical Operational Matrix" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F7D302&width=600&center=true&lines=MUHAMMAD+HUZAIFA+ARAIN;SOFTWARE+ENGINEER;TACTICAL+STRATEGIST;DEPUTY+COORDINATOR" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=800000&width=600&center=true&lines=MUHAMMAD+HUZAIFA+ARAIN;SOFTWARE+ENGINEER;TACTICAL+STRATEGIST;DEPUTY+COORDINATOR" alt="Tactical Operational Matrix" />
+    </picture>
   </a>
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/OFFICER-MUHAMMAD%20HUZAIFA%20ARAIN%20%7C%20Soft.%20Engr-gold?style=for-the-badge&labelColor=1A1A1A" alt="Name Badge" />
-  <img src="https://img.shields.io/badge/RANK-DEPUTY%20COORDINATOR%20%7C%20SOCIAL%20MEDIA%20TEAM-maroon?style=for-the-badge&labelColor=1A1A1A" alt="Rank Badge" />
+<p align="center">
+  <img src="https://img.shields.io/badge/OFFICER-MUHAMMAD%20HUZAIFA%20ARAIN%20%7C%20Soft.%20Engr-gold?style=for-the-badge&labelColor=1A1A1A" alt="Name Badge" /><br/>
+  <img src="https://img.shields.io/badge/RANK-DEPUTY%20COORDINATOR%20%7C%20SOCIAL%20MEDIA%20TEAM-maroon?style=for-the-badge&labelColor=1A1A1A" alt="Rank Badge" /><br/>
   <img src="https://img.shields.io/badge/THEATER-PAKISTAN%20AWAMI%20TEHREEK%20%7C%20KARACHI%20ZONE-black?style=for-the-badge&labelColor=333333" alt="Theater Badge" />
 </p>
 
