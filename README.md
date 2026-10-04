@@ -1,0 +1,105 @@
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=800000&width=600&lines=MUHAMMAD+HUZAIFA+ARAIN;SOFTWARE+ENGINEER;TACTICAL+STRATEGIST;DEPUTY+COORDINATOR" alt="Tactical Operational Matrix" />
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/OFFICER-MUHAMMAD%20HUZAIFA%20ARAIN%20%7C%20Soft.%20Engr-gold?style=for-the-badge&labelColor=1A1A1A" alt="Name Badge" />
+  <img src="https://img.shields.io/badge/RANK-DEPUTY%20COORDINATOR%20%7C%20SOCIAL%20MEDIA%20TEAM-maroon?style=for-the-badge&labelColor=1A1A1A" alt="Rank Badge" />
+  <img src="https://img.shields.io/badge/THEATER-PAKISTAN%20AWAMI%20TEHREEK%20%7C%20KARACHI%20ZONE-black?style=for-the-badge&labelColor=333333" alt="Theater Badge" />
+</p>
+
+A mission-oriented **Software Engineer** and **Tactical Digital Strategist** operating with absolute discipline, precision, and a high-command mindset. Expert in architecting resilient digital defense structures, deploying enterprise-grade software infrastructure, and commanding complex technical operations under strict tactical frameworks. Bridging the gap between robust codebase deployment and regional strategic leadership.
+
+---
+
+### 🎯 CORE OPERATIONAL CAPABILITIES
+
+*   ### ⚡ Strategic Infrastructure & Deployment
+Architecting fortified, high-performance, and scalable full-stack ecosystems engineered to withstand heavy operational loads.
+*   ### 🕹️ Command & Technical Control
+Leading critical technical workflows, enforcing operational integrity, and aligning development protocols with mission objectives.
+*   ### 📢 Information Operations & Strategy
+Directing large-scale digital communication tactics, automated workflows, and high-impact public outreach campaigns.
+
+---
+
+### 🎖️ COMMAND & LEADERSHIP RECORD
+
+> ### 🦅 Deputy Coordinator | Social Media Command (Karachi Zone)
+> **Pakistan Awami Tehreek**
+> *   **Strategic Deployment:** Commanding regional digital operations, overseeing structural workflows, and maintaining strict operational readiness across a non-technical vanguard.
+> *   **Campaign Execution:** Executing data-driven digital campaigns, optimizing cross-platform communication channels, and neutralizing information bottlenecks under high-pressure scenarios.
+
+---
+
+### 🛠️ TACTICAL TECHNICAL ARSENAL
+
+| OPERATIONAL SECTOR | WEAPONS & FRAMEWORKS |
+| :--- | :--- |
+| **⚔️ Backend & Structural Fortress** | `C#` • `ASP.NET Core` • `PHP` • `Laravel` |
+| **🛰️ Frontend Operations & Mobile Recon** | `Dart` • `Flutter` • `UI & UX Frameworks` *(`Figma Tactical Blueprints`)* |
+| **🔐 Database, Security & Intelligence** | `Enterprise Identity Management` • `Relational Databases` • `Automated Workflows` |
+| **🌐 Full-Stack / MERN Strike Force** | `MongoDB` • `Express.js` • `React` • `Node.js` • `REST APIs` • `JWT / Auth` |
+
+---
+
+### ⚙️ FULL-STACK // MERN STACK ORDNANCE
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=900&color=c0c0c0&width=650&lines=MERN+STACK+DEPLOYMENT;FULL-STACK+ECOSYSTEM+ENGINEERING;API+ARCHITECTURE+%26+DATABASE+COMMAND;PRODUCTION-GRADE+WEB+OPERATIONS" alt="MERN Stack Capabilities" />
+</p>
+
+---
+
+### 🏅 CERTIFICATIONS & FIELD DEPLOYMENTS
+
+> ### 🎖️ TECH VISION 2026 — CERTIFIED OPERATIVE
+> **Path Seeker | Website UI/UX Design Campaign**
+> *   **Tactical Design:** Engineered complete UI/UX blueprints for the *Path Seeker* website using **Figma** tactical drafting tools.
+> *   **Documentation Unit:** Authored mission-critical documents and comprehensive **User Guides** for seamless field deployment.
+> *   **Campaign Status:** ✅ **CERTIFIED** — Tech Vision 2026 Official Credential
+
+<p align="center">
+  <img src="vission.jpeg" alt="Tech Vision 2026 Certificate — Path Seeker Website UI/UX Design (Figma) | Documents & User Guides" width="760" />
+  <br/>
+  <sub>🎖️ <b>TECH VISION 2026</b> — Official Certificate of Achievement — Path Seeker UI/UX Design Operation</sub>
+</p>
+
+---
+
+### 📡 OPERATIONAL TELEMETRY
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Huzaifa-Arain1625&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonumber&title_color=800000&icon_color=800000&bg_color=0d1117&border_color=800000" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa-Arain1625&layout=compact&theme=tokyonight&title_color=800000&bg_color=0d1117&border_color=800000" alt="Top Languages" height="165" />
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Huzaifa-Arain1625&style=for-the-badge&color=800000&label=PROFILE+VISITS" alt="Profile Visits" />
+  <a href="https://github.com/Huzaifa-Arain1625?tab=repositories">
+    <img src="https://img.shields.io/badge/ACTIVE%20REPOSITORIES-READY-blue?style=for-the-badge&labelColor=1A1A1A" alt="Repositories" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Strategy without execution is an illusion. Execution without discipline is a failure."</i>
+</p>
