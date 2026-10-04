@@ -87,12 +87,12 @@ Directing large-scale digital communication tactics, automated workflows, and hi
 ### 📡 OPERATIONAL TELEMETRY
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Huzaifa-Arain1625&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonumber&title_color=800000&icon_color=800000&bg_color=0d1117&border_color=800000" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Huzaifa-Arain1625&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&title_color=800000&icon_color=800000&bg_color=0d1117&border_color=800000" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa-Arain1625&layout=compact&theme=tokyonight&title_color=800000&bg_color=0d1117&border_color=800000" alt="Top Languages" height="165" />
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Huzaifa-Arain1625&style=for-the-badge&color=800000&label=PROFILE+VISITS" alt="Profile Visits" />
+  <img src="https://komarev.com/ghpvc/?username=Huzaifa-Arain1625&style=for-the-badge&color=800000&label=PROFILE+VISITS&label_color=1A1A1A" alt="Profile Visits" />
   <a href="https://github.com/Huzaifa-Arain1625?tab=repositories">
     <img src="https://img.shields.io/badge/ACTIVE%20REPOSITORIES-READY-blue?style=for-the-badge&labelColor=1A1A1A" alt="Repositories" />
   </a>
