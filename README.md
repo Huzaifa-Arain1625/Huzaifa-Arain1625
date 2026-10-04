@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/OFFICER-MUHAMMAD%20HUZAIFA%20ARAIN%20%7C%20Soft.%20Engr-gold?style=for-the-badge&labelColor=1A1A1A" alt="Name Badge" /><br/>
   <img src="https://img.shields.io/badge/RANK-DEPUTY%20COORDINATOR%20%7C%20SOCIAL%20MEDIA%20TEAM-maroon?style=for-the-badge&labelColor=1A1A1A" alt="Rank Badge" /><br/>
-  <img src="https://img.shields.io/badge/THEATER-PAKISTAN%20AWAMI%20TEHREEK%20%7C%20KARACHI%20ZONE-black?style=for-the-badge&labelColor=333333" alt="Theater Badge" />
+  <img src="https://img.shields.io/badge/-PAKISTAN%20AWAMI%20TEHREEK%20%7C%20KARACHI%20ZONE-black?style=for-the-badge&labelColor=333333" alt="Theater Badge" />
 </p>
 
 A mission-oriented **Software Engineer** and **Tactical Digital Strategist** operating with absolute discipline, precision, and a high-command mindset. Expert in architecting resilient digital defense structures, deploying enterprise-grade software infrastructure, and commanding complex technical operations under strict tactical frameworks. Bridging the gap between robust codebase deployment and regional strategic leadership.
@@ -120,6 +120,6 @@ Directing large-scale digital communication tactics, automated workflows, and hi
 
 ---
 
-<p align="center">
+<h1 align="center">
   <i>"Strategy without execution is an illusion. Execution without discipline is a failure."</i>
-</p>
+</h1>
