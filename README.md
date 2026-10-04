@@ -120,6 +120,6 @@ Directing large-scale digital communication tactics, automated workflows, and hi
 
 ---
 
-<p align="center">
+<h1 align="center">
   <i>"Strategy without execution is an illusion. Execution without discipline is a failure."</i>
-</p>
+</h1>
