@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="24" viewBox="0 0 880 24" role="img" aria-label="Tactical gradient divider">
+  <defs>
+    <linearGradient id="bar" x1="0%" y1="0" x2="100%" y2="0">
+      <stop offset="0" stop-color="#800000" stop-opacity="0"/>
+      <stop offset="0.18" stop-color="#800000"/>
+      <stop offset="0.5" stop-color="#e66a6a"/>
+      <stop offset="0.82" stop-color="#800000"/>
+      <stop offset="1" stop-color="#800000" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0%" y1="0" x2="100%" y2="0">
+      <stop offset="0" stop-color="#ffd7d7" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffe9e9" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#ffd7d7" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="clip">
+      <rect x="0" y="9" width="880" height="6" rx="3"/>
+    </clipPath>
+  </defs>
+  <style>
+    .bar { transition: filter .35s ease, opacity .35s ease; }
+    #sweep { animation: sweep 3.2s linear infinite; opacity: .6; }
+    @keyframes sweep {
+      0%   { transform: translateX(-200px); }
+      100% { transform: translateX(900px); }
+    }
+    svg:hover .bar { filter: brightness(1.55) drop-shadow(0 0 7px #ff5252); }
+    svg:hover #sweep { opacity: 1; }
+  </style>
+  <rect class="bar" x="0" y="9" width="880" height="6" rx="3" fill="url(#bar)"/>
+  <g clip-path="url(#clip)">
+    <rect id="sweep" x="-200" y="9" width="200" height="6" fill="url(#shine)"/>
+  </g>
+</svg>

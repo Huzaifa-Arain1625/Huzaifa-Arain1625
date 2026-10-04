@@ -23,6 +23,10 @@ A mission-oriented **Software Engineer** and **Tactical Digital Strategist** ope
 
 ### 🎯 CORE OPERATIONAL CAPABILITIES
 
+<p align="center">
+  <img src="assets/tactical-divider.svg" alt="" />
+</p>
+
 *   ### ⚡ Strategic Infrastructure & Deployment
 Architecting fortified, high-performance, and scalable full-stack ecosystems engineered to withstand heavy operational loads.
 *   ### 🕹️ Command & Technical Control
@@ -34,6 +38,10 @@ Directing large-scale digital communication tactics, automated workflows, and hi
 
 ### 🎖️ COMMAND & LEADERSHIP RECORD
 
+<p align="center">
+  <img src="assets/tactical-divider.svg" alt="" />
+</p>
+
 > ### 🦅 Deputy Coordinator | Social Media Command (Karachi Zone)
 > **Pakistan Awami Tehreek**
 > *   **Strategic Deployment:** Commanding regional digital operations, overseeing structural workflows, and maintaining strict operational readiness across a non-technical vanguard.
@@ -42,6 +50,10 @@ Directing large-scale digital communication tactics, automated workflows, and hi
 ---
 
 ### 🛠️ TACTICAL TECHNICAL ARSENAL
+
+<p align="center">
+  <img src="assets/tactical-divider.svg" alt="" />
+</p>
 
 | OPERATIONAL SECTOR | WEAPONS & FRAMEWORKS |
 | :--- | :--- |
@@ -53,6 +65,10 @@ Directing large-scale digital communication tactics, automated workflows, and hi
 ---
 
 ### ⚙️ FULL-STACK // MERN STACK ORDNANCE
+
+<p align="center">
+  <img src="assets/tactical-divider.svg" alt="" />
+</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -77,6 +93,10 @@ Directing large-scale digital communication tactics, automated workflows, and hi
 
 ### 🏅 CERTIFICATIONS & FIELD DEPLOYMENTS
 
+<p align="center">
+  <img src="assets/tactical-divider.svg" alt="" />
+</p>
+
 > ### 🎖️ TECH VISION 2026 — CERTIFIED OPERATIVE
 > **Path Seeker | Website UI/UX Design Campaign**
 > *   **Tactical Design:** Engineered complete UI/UX blueprints for the *Path Seeker* website using **Figma** tactical drafting tools.
@@ -84,7 +104,9 @@ Directing large-scale digital communication tactics, automated workflows, and hi
 > *   **Campaign Status:** ✅ **CERTIFIED** — Tech Vision 2026 Official Credential
 
 <p align="center">
-  <img src="vission.jpeg" alt="Tech Vision 2026 Certificate — Path Seeker Website UI/UX Design (Figma) | Documents & User Guides" width="760" />
+  <a href="vission.jpeg">
+    <img src="vission.jpeg" alt="Tech Vision 2026 Certificate — Path Seeker Website UI/UX Design (Figma) | Documents & User Guides" width="760" />
+  </a>
   <br/>
   <sub>🎖️ <b>TECH VISION 2026</b> — Official Certificate of Achievement — Path Seeker UI/UX Design Operation</sub>
 </p>
@@ -92,6 +114,10 @@ Directing large-scale digital communication tactics, automated workflows, and hi
 ---
 
 ### 🐍 OPERATIONAL CAMPAIGN MAP
+
+<p align="center">
+  <img src="assets/tactical-divider.svg" alt="" />
+</p>
 
 <p align="center">
   <picture>
@@ -104,6 +130,10 @@ Directing large-scale digital communication tactics, automated workflows, and hi
 ---
 
 ### 📡 OPERATIONAL TELEMETRY
+
+<p align="center">
+  <img src="assets/tactical-divider.svg" alt="" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Huzaifa-Arain1625&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=800000&title_color=800000&icon_color=e66a6a&text_color=c9d1d9&label_color=8b949e" alt="GitHub Stats" height="165" />
