@@ -92,7 +92,7 @@ Directing large-scale digital communication tactics, automated workflows, and hi
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Huzaifa-Arain1625&style=for-the-badge&color=800000&label=PROFILE+VISITS&label_color=1A1A1A" alt="Profile Visits" />
+  <img src="https://hits.sh/github.com/Huzaifa-Arain1625.svg?label=PROFILE+VISITS&color=800000" alt="Profile Visits" />
   <a href="https://github.com/Huzaifa-Arain1625?tab=repositories">
     <img src="https://img.shields.io/badge/ACTIVE%20REPOSITORIES-READY-blue?style=for-the-badge&labelColor=1A1A1A" alt="Repositories" />
   </a>
