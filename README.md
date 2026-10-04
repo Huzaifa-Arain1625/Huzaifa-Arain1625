@@ -105,15 +105,16 @@ Directing large-scale digital communication tactics, automated workflows, and hi
 
 ### 📡 OPERATIONAL TELEMETRY
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Huzaifa-Arain1625&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&title_color=800000&icon_color=800000&bg_color=0d1117&border_color=800000" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa-Arain1625&layout=compact&theme=tokyonight&title_color=800000&bg_color=0d1117&border_color=800000" alt="Top Languages" height="165" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Huzaifa-Arain1625&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=800000&title_color=800000&icon_color=e66a6a&text_color=c9d1d9&label_color=8b949e" alt="GitHub Stats" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=Huzaifa-Arain1625&background=0d1117&border=800000&stroke=800000&ring=800000&fire=800000&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=800000&sideLabels=8b949e&dates=8b949e&excludeDaysLabel=8b949e&border_radius=8" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa-Arain1625&layout=compact&langs_count=6&bg_color=0d1117&border_color=800000&title_color=800000&text_color=c9d1d9&label_color=8b949e" alt="Top Languages" height="165" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://hits.sh/github.com/Huzaifa-Arain1625.svg?label=PROFILE+VISITS&color=800000" alt="Profile Visits" />
   <a href="https://github.com/Huzaifa-Arain1625?tab=repositories">
-    <img src="https://img.shields.io/badge/ACTIVE%20REPOSITORIES-READY-blue?style=for-the-badge&labelColor=1A1A1A" alt="Repositories" />
+    <img src="https://img.shields.io/badge/ACTIVE%20REPOSITORIES-READY-maroon?style=for-the-badge&labelColor=1A1A1A" alt="Repositories" />
   </a>
 </p>
 
