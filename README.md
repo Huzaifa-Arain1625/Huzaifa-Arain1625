@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?section=header&type=waving&height=160&color=0:800000,100:1A1A1A&text=MUHAMMAD+HUZAIFA+ARAIN&fontSize=36&fontColor=FFFFFF&fontAlign=center&desc=SOFTWARE+ENGINEER+%7C+MERN+STACK+%7C+TACTICAL+DIGITAL+STRATEGIST&descSize=17&descAlign=center&animation=typing" alt="Muhammad Huzaifa Arain — Tactical Header Banner" />
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F7D302&width=600&center=true&lines=MUHAMMAD+HUZAIFA+ARAIN;SOFTWARE+ENGINEER;TACTICAL+STRATEGIST;DEPUTY+COORDINATOR" />
@@ -83,6 +87,18 @@ Directing large-scale digital communication tactics, automated workflows, and hi
   <img src="vission.jpeg" alt="Tech Vision 2026 Certificate — Path Seeker Website UI/UX Design (Figma) | Documents & User Guides" width="760" />
   <br/>
   <sub>🎖️ <b>TECH VISION 2026</b> — Official Certificate of Achievement — Path Seeker UI/UX Design Operation</sub>
+</p>
+
+---
+
+### 🐍 OPERATIONAL CAMPAIGN MAP
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Huzaifa-Arain1625/Huzaifa-Arain1625/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Huzaifa-Arain1625/Huzaifa-Arain1625/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Huzaifa-Arain1625/Huzaifa-Arain1625/output/github-snake.svg" alt="Muhammad Huzaifa Arain contribution snake animation" />
+  </picture>
 </p>
 
 ---
