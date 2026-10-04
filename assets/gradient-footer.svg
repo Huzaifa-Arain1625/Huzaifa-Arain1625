@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="16" viewBox="0 0 880 16" role="img" aria-label="Animated gradient footer bar">
+  <defs>
+    <linearGradient id="flow" x1="0%" y1="0" x2="100%" y2="0">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.12" stop-color="#14b8a6"/>
+      <stop offset="0.38" stop-color="#3b82f6"/>
+      <stop offset="0.62" stop-color="#8b5cf6"/>
+      <stop offset="0.86" stop-color="#d946ef"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <clipPath id="clip">
+      <rect x="0" y="0" width="880" height="16" rx="4"/>
+    </clipPath>
+  </defs>
+  <style>
+    #bar {
+      animation: hueflow 7s linear infinite, sway 5s ease-in-out infinite alternate;
+    }
+    @keyframes hueflow {
+      from { filter: hue-rotate(0deg); }
+      to   { filter: hue-rotate(360deg); }
+    }
+    @keyframes sway {
+      from { transform: translateX(0); }
+      to   { transform: translateX(-40px); }
+    }
+  </style>
+  <g clip-path="url(#clip)">
+    <rect id="bar" x="-40" y="0" width="960" height="16" fill="url(#flow)"/>
+  </g>
+</svg>
